@@ -1,0 +1,6 @@
+{
+  "name": "AQUAGHOST",
+  "description": "Offline edge-native Side-Scan Sonar computer vision pipeline and acoustic physics risk engine for marine ghost net and debris detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
